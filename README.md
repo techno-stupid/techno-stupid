@@ -6,10 +6,29 @@ I'm a Professional Full-Stack Web Application developer with 5+ years of experie
 ![![GitHub Profile Views]](https://komarev.com/ghpvc/?username=techno-stupid)
 
 
-[![Pial's github stats](https://github-readme-stats.vercel.app/api?username=techno-stupid&show_icons=true)](https://github.com/techno-stupid)
-
 - 🔭 I like to build things for the web
 - 🌱 I’m currently learning dev ops technologies
 - 👯 I’m looking to collaborate on anything challanging
 - 💬 Ask me anything
 - 📫 How to reach me: [Technostupid.com](https://technostupid.com) | [Email me](mailto:pial.coder@gmail.com)
+
+
+[![Pial's github stats](https://github-readme-stats.vercel.app/api?username=techno-stupid&show_icons=true)](https://github.com/techno-stupid)
+
+
+### :gear: My skills include:
+
+- **Languages**: `PHP`, `JavaScript`, `C++`, `Python`, `OOP`
+
+- **Frontend**: `HTML5`, `CSS3`, `Vue`, `Nuxt`
+
+- **Backend**: `Laravel`,`Lumen`, `DotNet`
+
+- **Databases**: `MySql`, `Mongodb`
+
+- **Technical Practices**: *Agile*, *Test Driven Development*
+
+
+### :hugs: Thank You!
+
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/techno-stupi)! :v:
