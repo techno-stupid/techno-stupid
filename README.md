@@ -4,6 +4,8 @@ I'm a Professional Full-Stack Web Application developer with 5+ years of experie
 
 
 ![![GitHub Profile Views]](https://komarev.com/ghpvc/?username=techno-stupid)
+
+
 [![Pial's github stats](https://github-readme-stats.vercel.app/api?username=techno-stupid&show_icons=true)](https://github.com/techno-stupid)
 
 - 🔭 I like to build things for the web
