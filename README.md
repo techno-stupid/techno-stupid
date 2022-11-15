@@ -1,6 +1,6 @@
 ### Hi there 👋
 **Glad to see you here!** :star_struck: <br>
-I'm a Professional Full-Stack Web Application developer with 7+ years of experience on design and development. Building state-of-art, easy to use, user-friendly applications is truly my passion. In addition to my knowledge-base, I actively seek out new technologies and stay up-to-date on industry trends and advancement. This has allowed me to stay ahead of the curve and deliver exceptional work to all my employers, including those I have worked for on project basis.  
+I'm a Professional Full-Stack Web Application developer with 5+ years of experience on design and development. Building state-of-art, easy to use, user-friendly applications is truly my passion. In addition to my knowledge-base, I actively seek out new technologies and stay up-to-date on industry trends and advancement. This has allowed me to stay ahead of the curve and deliver exceptional work to all my employers, including those I have worked for on project basis.  
 
 
 ![![GitHub Profile Views]](https://komarev.com/ghpvc/?username=techno-stupid)
