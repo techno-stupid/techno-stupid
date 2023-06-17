@@ -19,13 +19,13 @@ I'm a Professional Full-Stack Web Application developer with 5+ years of experie
 
 ### :gear: My skills include:
 
-- **Languages**: `PHP`, `JavaScript`, `C++`, `Python`, `OOP`
+- **Languages**: `PHP`, `JavaScript`, `GO`
 
 - **Frontend**: `HTML5`, `CSS3`, `Vue`, `Nuxt`
 
-- **Backend**: `Laravel`,`Lumen`, `DotNet`
+- **Backend**: `Laravel`,`Lumen`, `DotNet`, `Golang`
 
-- **Databases**: `MySql`, `Mongodb`
+- **Databases**: `MySql`, `Mongodb`, `Postgres`
 
 - **Technical Practices**: *Agile*, *Test Driven Development*
 
