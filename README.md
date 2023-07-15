@@ -23,7 +23,7 @@ I'm a Professional Full-Stack Web Application developer with 5+ years of experie
 
 - **Frontend**: `HTML5`, `CSS3`, `Vue`, `Nuxt`
 
-- **Backend**: `Laravel`,`Lumen`, `DotNet`, `Golang`
+- **Backend**: `Laravel`,`Go-Gin`, `Go-Fiber`
 
 - **Databases**: `MySql`, `Mongodb`, `Postgres`
 
