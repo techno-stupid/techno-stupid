@@ -11,9 +11,9 @@ I'm a Professional Full-Stack Web Application developer with 5+ years of experie
 - 💬 Ask me anything
 - 📫 How to reach me: [Technostupid.com](https://technostupid.com) | [Email me](mailto:pial.coder@gmail.com)
  -->
-<!--
+
 [![Pial's github stats](https://github-readme-stats.vercel.app/api?username=techno-stupid&show_icons=true)](https://github.com/techno-stupid)
- -->
+ 
 
 ![![GitHub Profile Views]](https://komarev.com/ghpvc/?username=techno-stupid)
 
