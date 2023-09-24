@@ -32,4 +32,4 @@ I'm a Professional Full-Stack Web Application developer with 5+ years of experie
 
 ### :hugs: Thank You!
 
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/techno-stupi)! :v:
+Thank you so much for visiting my tiny space on [GitHub](https://techno-stupid.github.io/)! :v:
